@@ -1,0 +1,14 @@
+had a lot of work with git practice today, so not much to commite there)
+_____________________________
+|git switch                 |
+|git cherry-pic             |
+|git reset                  |
+|git revert                 |
+|git rebase                 |
+|git commit --amend         |
+|git Tags/describe          |
+|git clone                  |
+|git fetch                  |
+|git pull                   |
+|git pull -rebase           |
+-----------------------------
